@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @StormStarbrickYT
+- 👀 I’m interested in YouTube and Twitch and Learning how to code
+- 🌱 I’m currently learning Anything anybody wants to teach! All tips are helpful.
+- 📫 How to reach me: Email me at stormstarbrick@gmail.com
+- 💜 Twitch: https://www.twitch.tv/stormstarbrick
+- ❤️ Youtube: https://www.youtube.com/channel/UCbbNzOrD0H8ygCV-T-RtrKw
