@@ -4,3 +4,5 @@
 - 📫 How to reach me: Email me at stormstarbrick@gmail.com
 - 💜 Twitch: https://www.twitch.tv/stormstarbrick
 - ❤️ Youtube: https://www.youtube.com/channel/UCbbNzOrD0H8ygCV-T-RtrKw
+- 👶 Age: 17
+- 🌐 Location: Colorado, USA
