@@ -24,3 +24,5 @@
 Terms
 Privacy
 Security
+
+![](https://komarev.com/ghpvc/?username=ShadowStormYT&color=grey&style=plastic)
