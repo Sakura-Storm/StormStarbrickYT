@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ShadowStormYT&color=grey&style=plastic)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShadowStormYT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
   <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript"></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
