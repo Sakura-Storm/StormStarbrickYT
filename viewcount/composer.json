@@ -1,0 +1,44 @@
+{
+    "name": "komarev/github-profile-views-counter",
+    "description": "GitHub Profile views counter. Free cloud & self-hosted solution.",
+    "type": "project",
+    "license": "MIT",
+    "keywords": [
+        "github",
+        "github-profile",
+        "github-counter",
+        "views-counter",
+        "visitor-counter",
+        "views-counter"
+    ],
+    "authors": [
+        {
+            "name": "Anton Komarev",
+            "email": "anton@komarev.com",
+            "homepage": "https://komarev.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Contracts\\Komarev\\GitHubProfileViewsCounter\\": "contracts/",
+            "Komarev\\GitHubProfileViewsCounter\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4",
+        "badges/poser": "^2.0",
+        "vlucas/phpdotenv": "^5.0",
+        "webmozart/assert": "^1.9"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+        "ext-pdo": "*"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : true
+}
