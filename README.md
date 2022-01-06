@@ -2,6 +2,7 @@
 <h1 align="center">StormStarbrickYT</h1>
 
 ![](https://komarev.com/ghpvc/?username=StormStarbrickYT&color=grey&style=plastic)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=cb9gqbla906uijped0d3lqzb5)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=StormStarbrickYT&theme=onedark)](https://github.com/StormStarbrickYT/github-profile-trophy)
 
