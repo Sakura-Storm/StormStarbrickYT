@@ -1,10 +1,15 @@
-
 <h1 align="center">StormStarbrickYT</h1>
-
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=StormStarbrickYT&color=grey&style=plastic)
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=cb9gqbla906uijped0d3lqzb5)
+</div>
 
+<div align="center">
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=cb9gqbla906uijped0d3lqzb5)
+</div>
+
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=StormStarbrickYT&theme=onedark)](https://github.com/StormStarbrickYT/github-profile-trophy)
+</div>
 
 <div align="center">
   <a href="https://www.twitch.tv/stormstarbrick"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
