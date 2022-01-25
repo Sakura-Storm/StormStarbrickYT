@@ -25,6 +25,13 @@
 ## Organizations
 - Alliance Reunited (Current) [Trial Moderator]
 
+## Languages Used
+- Python
+- HTML
+- CSS
+- JavaScript
+- PHP (Barely)
+- Windows Batch
 
 ## Stats
 ![Git Statistics](https://github-readme-stats.vercel.app/api?username=StormStarbrickYT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
@@ -32,6 +39,7 @@
 ## Language Fluency
 ![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=StormStarbrickYT&hide_border=true&layout=compact&theme=tokyonight)
 
+<!-- Licensing -->
 <p align="center">
 © 2021 GitHub, Inc.
 Terms
