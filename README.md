@@ -23,8 +23,7 @@
 </html>
 
 ## Organizations
-- Alliance Reunited (Current)
-- StormCrew Programming (coming soon)
+- Alliance Reunited (Current) [Trial Moderator]
 
 
 ## Stats
