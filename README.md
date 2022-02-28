@@ -23,7 +23,7 @@
 </html>
 
 ## Organizations
-- Alliance Reunited (Current) [Trial Moderator]
+- Banabyte Network (Current) [Trial Moderator]
 
 ## Languages Used
 - Python
