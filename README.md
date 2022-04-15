@@ -23,15 +23,12 @@
 </html>
 
 ## Organizations
-- Banabyte Network (Current) [Trial Moderator]
+- Banabyte Network (Current) [Web Dev]
 
 ## Languages Used
-- Python
 - HTML
 - CSS
-- JavaScript
-- PHP (Barely)
-- Windows Batch
+- JavaScript (barely)
 
 ## Stats
 ![Git Statistics](https://github-readme-stats.vercel.app/api?username=StormStarbrickYT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
