@@ -22,8 +22,6 @@
   </h4>
 </html>
 
-## Organizations
-- Banabyte Network (Current) [Web Dev]
 
 ## Languages Used
 - HTML
