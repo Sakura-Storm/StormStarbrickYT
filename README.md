@@ -1,10 +1,10 @@
-<h1 align="center">StormStarbrickYT</h1>
+<h1 align="center">Error404Gaming</h1>
 
-![](https://komarev.com/ghpvc/?username=StormStarbrickYT&color=grey&style=plastic)
+![](https://komarev.com/ghpvc/?username=Error404Gaming&color=grey&style=plastic)
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=cb9gqbla906uijped0d3lqzb5)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StormStarbrickYT&theme=onedark)](https://github.com/StormStarbrickYT/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Error404Gaming&theme=onedark)](https://github.com/Error404Gaming/github-profile-trophy)
 
 <div align="center">
   <a href="https://www.twitch.tv/stormstarbrick"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
@@ -17,7 +17,7 @@
 <!-- Descriptor !-->
 <html>
   <h4>
-<p align="center">Hello World! Im Storm! I'm a new developer and i'm willing to learn anything! If you have any suggestions to help i'll happily hear them! Just shoot me an email. :)</p>
+<p align="center">Hello World! Im Error! I'm a new developer and i'm willing to learn anything! If you have any suggestions to help i'll happily hear them! Just shoot me an email. :)</p>
 <br>
   </h4>
 </html>
