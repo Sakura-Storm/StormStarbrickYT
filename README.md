@@ -1,7 +1,4 @@
 <h1 align="center">StormStarbrickYT</h1>
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=StormStarbrickYT&color=grey&style=plastic)
-</div>
 
 <div align="center">
   <a href="https://www.twitch.tv/STORMSTARBRICK"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
