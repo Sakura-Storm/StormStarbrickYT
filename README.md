@@ -27,9 +27,6 @@
 - JavaScript (barely)
 - Python (in progress)
 
-## Stats
-![Git Statistics](https://github-readme-stats.vercel.app/api?username=StormStarbrickYT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
 ## Language Fluency
 ![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=StormStarbrickYT&hide_border=true&layout=compact&theme=tokyonight)
 
